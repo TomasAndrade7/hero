@@ -44,8 +44,3 @@ bin/
 out/
 build/
 *.iml
-.idea/
-.gradle/
-out/
-build/
-*.iml
